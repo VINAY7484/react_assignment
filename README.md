@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+# Live Link : https://frabjous-croquembouche-a4463e.netlify.app
+
 First, run the development server:
 
 ```bash
